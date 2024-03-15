@@ -1,0 +1,1351 @@
+{
+  "categories": [
+  {
+      "id": 000,
+      "name": "General Knowledge ",
+      "subcategories": [
+        {
+          "id": 10,
+          "name": "Bibliographies",
+          "topics": [
+            {"id": 11, "name": "General bibliographies"},
+            {"id": 12, "name": "Bibliographies of individuals"},
+            {"id": 13, "name": "Bibliographies of works on specific subjects"},
+            {"id": 14, "name": "Bibliographies of anonymous & pseudonymous works"},
+            {"id": 15, "name": "Bibliographies of works from specific places"},
+            {"id": 16, "name": "Bibliographies of works from specific periods"},
+            {"id": 17, "name": "Subject catalogs"},
+            {"id": 18, "name": "Author catalogs"},
+            {"id": 19, "name": "Dictionary catalogs"}
+          ]
+        }, 
+		{
+          "id": 20,
+          "name": "Library & Information Sciences",
+          "topics": [
+            {"id": 22, "name": "Administration of physical plant"},
+			{"id": 23, "name": "Personnel management"},
+			{"id": 24, "name": "Not assigned or no longer used"},
+			{"id": 25, "name": "Library operations"},
+			{"id": 26, "name": "Libraries for specific subjects"},
+			{"id": 27, "name": "General libraries"},
+			{"id": 28, "name": "Reading & use of other information media"},
+			{"id": 29, "name": "Not assigned or no longer used"}
+          ]
+        }, 
+		{
+          "id": 30,
+          "name": "Encyclopedias & Books of Facts",
+          "subcategories": [
+            {"id": 31, "name": "General encyclopedias"},
+            {"id": 32, "name": "Encyclopedias in specific languages"},
+            {"id": 33, "name": "Encyclopedias in specific forms"},
+            {"id": 34, "name": "Not assigned or no longer used"},
+            {"id": 35, "name": "Encyclopedias in specific areas"},
+            {"id": 36, "name": "Special topics"},
+            {"id": 37, "name": "Encyclopedias in specific places"},
+            {"id": 38, "name": "Not assigned or no longer used"},
+            {"id": 39, "name": "Books of facts"}
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Magazines, Journals & Serials",
+      "subcategories": [
+        {"id": 51, "name": "Serials in American English"},
+        {"id": 52, "name": "Serials in English"},
+        {"id": 53, "name": "Serials in other Germanic languages"},
+        {"id": 54, "name": "Serials in French, Provencal & Catalan"},
+        {"id": 55, "name": "Serials in Italian, Romanian & related languages"},
+        {"id": 56, "name": "Serials in Spanish & Portuguese"},
+        {"id": 57, "name": "Serials in Slavic languages"},
+        {"id": 58, "name": "Serials in Scandinavian languages"},
+        {"id": 59, "name": "Serials in other languages"}
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Associations, Organizations & Museums",
+      "subcategories": [
+        {"id": 61, "name": "Organizations in North America"},
+        {"id": 62, "name": "Organizations in British Isles; in England"},
+        {"id": 63, "name": "Organizations in Central Europe; in Germany"},
+        {"id": 64, "name": "Organizations in France & Monaco"},
+        {"id": 65, "name": "Organizations in Italy & adjacent islands"},
+        {"id": 66, "name": "Organizations in Iberian Peninsula & adjacent islands"},
+        {"id": 67, "name": "Organizations in Eastern Europe; in Russia"},
+        {"id": 68, "name": "Organizations in other geographic areas"},
+        {"id": 69, "name": "Museums"}
+      ]
+    },
+    {
+      "id": 70,
+      "name": "News Media, Journalism & Publishing",
+      "subcategories": [
+        {"id": 71, "name": "Newspapers in North America"},
+        {"id": 72, "name": "Newspapers in British Isles; in England"},
+        {"id": 73, "name": "Newspapers in Central Europe; in Germany"},
+        {"id": 74, "name": "Newspapers in France & Monaco"},
+        {"id": 75, "name": "Newspapers in Italy & adjacent islands"},
+        {"id": 76, "name": "Newspapers in Iberian Peninsula & adjacent islands"},
+        {"id": 77, "name": "Newspapers in Eastern Europe; in Russia"},
+        {"id": 78, "name": "Newspapers in Scandinavia"},
+        {"id": 79, "name": "Newspapers in other geographic areas"}
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Quotations & Other General Collections",
+      "subcategories": [
+        {"id": 81, "name": "General collections in American English"},
+        {"id": 82, "name": "General collections in English"},
+        {"id": 83, "name": "General collections in other Germanic languages"},
+        {"id": 84, "name": "General collections in French, Provencal & Catalan"},
+        {"id": 85, "name": "General collections in Italian, Romanian & related languages"},
+        {"id": 86, "name": "General collections in Spanish & Portuguese"},
+        {"id": 87, "name": "General collections in Slavic languages"},
+        {"id": 88, "name": "General collections in Scandinavian languages"},
+        {"id": 89, "name": "General collections in other languages"}
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Manuscripts & Rare Books",
+      "subcategories": [
+        {"id": 91, "name": "Manuscripts in American English"},
+        {"id": 92, "name": "Manuscripts in English"},
+        {"id": 93, "name": "Manuscripts in other Germanic languages"},
+        {"id": 94, "name": "Manuscripts in French, Provencal & Catalan"},
+        {"id": 95, "name": "Manuscripts in Italian, Romanian & related languages"},
+        {"id": 96, "name": "Manuscripts in Spanish & Portuguese"},
+        {"id": 97, "name": "Manuscripts in Slavic languages"},
+        {"id": 98, "name": "Manuscripts in Scandinavian languages"},
+        {"id": 99, "name": "Manuscripts in other languages"}
+      ]
+    }
+   ]
+    },
+    {
+      "id": 100,
+      "name": "Philosophy and Psychology",
+      "subcategories": [
+		{
+      "id": 110,
+      "name": "Metaphysics",
+      "subcategories": [
+        {"id": 111, "name": "Ontology"},
+        {"id": 112, "name": "Methods of metaphysics"},
+        {"id": 113, "name": "Cosmology (Philosophy of nature)"},
+        {"id": 114, "name": "Space"},
+        {"id": 115, "name": "Time"},
+        {"id": 116, "name": "Change"},
+        {"id": 117, "name": "Structures"},
+        {"id": 118, "name": "Force & energy"},
+        {"id": 119, "name": "Number & quantity"}
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Epistemology",
+      "subcategories": [
+        {"id": 121, "name": "Epistemology (Theory of knowledge)"},
+        {"id": 122, "name": "Scepticism"},
+        {"id": 123, "name": "Determinism & indeterminism"},
+        {"id": 124, "name": "Teleology"},
+        {"id": 125, "name": "Probability & induction"},
+        {"id": 126, "name": "Theories of causation"}
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Parapsychology & Occultism",
+      "subcategories": [
+        {"id": 131, "name": "Parapsychology"},
+        {"id": 132, "name": "Divination & oracles"},
+        {"id": 133, "name": "Specific topics in parapsychology & occultism"},
+        {"id": 134, "name": "Mesmerism & Clairvoyance"},
+        {"id": 135, "name": "Dreams & mysteries"}
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Philosophical Schools of Thought",
+      "subcategories": [
+        {"id": 141, "name": "Idealism & related systems & doctrines"},
+        {"id": 142, "name": "Critical philosophy"},
+        {"id": 143, "name": "Intuitionism & Bergsonian philosophy"},
+        {"id": 144, "name": "Humanism & related systems & doctrines"},
+        {"id": 145, "name": "Sensationalism"}
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Psychology",
+      "subcategories": [
+        {"id": 151, "name": "Perception, movement, emotions, drives"},
+        {"id": 152, "name": "Sensory perception, movement, emotions, drives"},
+        {"id": 153, "name": "Mental processes & intelligence"},
+        {"id": 154, "name": "Subconscious & altered states & processes"},
+        {"id": 155, "name": "Differential & developmental psychology"}
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Ethics",
+      "subcategories": [
+        {"id": 171, "name": "Ethical systems"},
+        {"id": 172, "name": "Political ethics"},
+        {"id": 173, "name": "Ethical issues in social relations"},
+        {"id": 174, "name": "Occupational ethics"},
+        {"id": 175, "name": "Ethics of recreation & leisure"}
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Ancient, Medieval & Eastern Philosophy",
+      "subcategories": [
+        {"id": 181, "name": "Early Western philosophy"},
+        {"id": 182, "name": "Pre-Socratic Greek philosophies"},
+        {"id": 183, "name": "Sophistic, Socratic, Platonic philosophies"},
+        {"id": 184, "name": "Aristotelian philosophy"},
+        {"id": 185, "name": "Epicurean & related systems & doctrines"}
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Modern Western Philosophy",
+      "subcategories": [
+        {"id": 191, "name": "Philosophy of the United States & Canada"},
+        {"id": 192, "name": "British philosophy"},
+        {"id": 193, "name": "German & Austrian philosophy"},
+        {"id": 194, "name": "French philosophy"},
+        {"id": 195, "name": "Italian philosophy"}
+      ]
+    }
+   ]
+    },
+    {
+      "id": 200,
+      "name": "Religion",
+      "subcategories": [
+		{
+      "id": 210,
+      "name": "Philosophy of Religion",
+      "topics": [
+        {"id": 211, "name": "Concepts of God"},
+        {"id": 212, "name": "Existence, immortality, afterlife of the soul"},
+        {"id": 213, "name": "Creation"},
+        {"id": 214, "name": "Theodicy"},
+        {"id": 215, "name": "Science & religion"},
+        {"id": 216, "name": "No longer used—formerly Evil"},
+        {"id": 217, "name": "No longer used—formerly Prayer"},
+        {"id": 218, "name": "Humankind"},
+        {"id": 219, "name": "No longer used—formerly Analogies"}
+      ]
+    },
+    {
+      "id": 220,
+      "name": "The Bible",
+      "topics": [
+        {"id": 221, "name": "Old Testament"},
+        {"id": 222, "name": "Historical books of Old Testament"},
+        {"id": 223, "name": "Poetic books of Old Testament"},
+        {"id": 224, "name": "Prophetic books of Old Testament"},
+        {"id": 225, "name": "New Testament"},
+        {"id": 226, "name": "Gospels & Acts"},
+        {"id": 227, "name": "Epistles"},
+        {"id": 228, "name": "Revelation (Apocalypse)"},
+        {"id": 229, "name": "Apocrypha & pseudepigrapha"}
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Christianity & Christian Theology",
+      "topics": [
+        {"id": 231, "name": "God"},
+        {"id": 232, "name": "Jesus Christ & his family"},
+        {"id": 233, "name": "Humankind"},
+        {"id": 234, "name": "Salvation & grace"},
+        {"id": 235, "name": "Spiritual beings"},
+        {"id": 236, "name": "Eschatology"},
+        {"id": 237, "name": "No longer used—formerly Satanism & demonology"},
+        {"id": 238, "name": "Creeds & catechisms"},
+        {"id": 239, "name": "Apologetics & polemics"}
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Christian Moral & Devotional Theology",
+      "topics": [
+        {"id": 241, "name": "Christian ethics"},
+        {"id": 242, "name": "Devotional literature"},
+        {"id": 243, "name": "Evangelistic writings for individuals"},
+        {"id": 244, "name": "No longer used—formerly Religious fiction"},
+        {"id": 245, "name": "No longer used—formerly Hymnology"},
+        {"id": 246, "name": "Use of art in Christianity"},
+        {"id": 247, "name": "Church furnishings & articles"},
+        {"id": 248, "name": "Christian experience, practice, life"},
+        {"id": 249, "name": "Christian observances in family life"}
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Christian Orders & Local Church",
+      "topics": [
+        {"id": 251, "name": "Preaching (Homiletics)"},
+        {"id": 252, "name": "Texts of sermons"},
+        {"id": 253, "name": "Pastoral office (Pastoral theology)"},
+        {"id": 254, "name": "Parish government & administration"},
+        {"id": 255, "name": "No longer used—formerly Christian congregations"},
+        {"id": 256, "name": "No longer used—formerly Religious societies"},
+        {"id": 257, "name": "No longer used—formerly Sunday schools"},
+        {"id": 258, "name": "No longer used—formerly Church ceremonies, services, rituals"},
+        {"id": 259, "name": "Activities of local churches & congregations"}
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Christian Social Theology",
+      "topics": [
+        {"id": 261, "name": "Social theology"},
+        {"id": 262, "name": "Ecclesiology"},
+        {"id": 263, "name": "No longer used—formerly Times & places of religious observance"},
+        {"id": 264, "name": "Public worship"},
+        {"id": 265, "name": "Sacraments, other rites & acts"},
+        {"id": 266, "name": "Missions"},
+        {"id": 267, "name": "Associations for religious work"},
+        {"id": 268, "name": "Religious education"},
+        {"id": 269, "name": "Spiritual renewal"}
+      ]
+    },
+    {
+      "id": 270,
+      "name": "History of Christianity",
+      "topics": [
+        {"id": 271, "name": "Religious congregations & orders in church history"},
+        {"id": 272, "name": "Persecutions in church history"},
+        {"id": 273, "name": "Doctrinal controversies & heresies in general church history"},
+        {"id": 274, "name": "Christian church in Europe"},
+        {"id": 275, "name": "Christian church in Asia"},
+        {"id": 276, "name": "Christian church in Africa"},
+        {"id": 277, "name": "Christian church in North America"},
+        {"id": 278, "name": "Christian church in South America"},
+        {"id": 279, "name": "Christian church in other areas"}
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Christian Denominations & Sects",
+      "topics": [
+        {"id": 281, "name": "Early church & Eastern churches"},
+        {"id": 282, "name": "Roman Catholic Church"},
+        {"id": 283, "name": "Anglican churches"},
+        {"id": 284, "name": "Protestants of Continental origin"},
+        {"id": 285, "name": "Presbyterian, Reformed, Congregational"},
+        {"id": 286, "name": "Baptist, Disciples of Christ, Adventist"},
+        {"id": 287, "name": "Methodist & related churches"},
+        {"id": 288, "name": "No longer used—formerly Unitarian"},
+        {"id": 289, "name": "Other denominations & sects"}
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Other Religions",
+      "topics": [
+        {"id": 291, "name": "Comparative religion"},
+        {"id": 292, "name": "Classical (Greek & Roman) religion"},
+        {"id": 293, "name": "Germanic religion"},
+        {"id": 294, "name": "Religions of Indic origin"},
+        {"id": 295, "name": "Zoroastrianism (Mazdaism, Parseeism)"},
+        {"id": 296, "name": "Judaism"},
+        {"id": 297, "name": "Islam & religions originating in it"},
+        {"id": 298, "name": "No longer used—formerly Mormonism"},
+        {"id": 299, "name": "Religions not provided for elsewhere"}
+      ]
+    }
+   ]
+  },
+    {
+      "id": 300,
+      "name": "Social Sciences",
+      "subcategories": [
+		 {
+      "id": 310,
+      "name": "Statistics",
+      "topics": [
+        {"id": 311, "name": "[Unassigned]"},
+        {"id": 312, "name": "Not assigned or no longer used"},
+        {"id": 313, "name": "Not assigned or no longer used"},
+        {"id": 314, "name": "General statistics"},
+        {"id": 315, "name": "Not assigned or no longer used"},
+        {"id": 316, "name": "Not assigned or no longer used"},
+        {"id": 317, "name": "Not assigned or no longer used"},
+        {"id": 318, "name": "Generalized specific kinds of statistics"},
+        {"id": 319, "name": "Not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Political Science",
+      "topics": [
+        {"id": 321, "name": "Systems of governments & states"},
+        {"id": 322, "name": "Relation of state to organized groups & their members"},
+        {"id": 323, "name": "Civil & political rights"},
+        {"id": 324, "name": "The political process"},
+        {"id": 325, "name": "International migration & colonization"},
+        {"id": 326, "name": "Slavery & emancipation"},
+        {"id": 327, "name": "International relations"},
+        {"id": 328, "name": "The legislative process"},
+        {"id": 329, "name": "[Unassigned]"}
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Economics",
+      "topics": [
+        {"id": 331, "name": "Labor economics"},
+        {"id": 332, "name": "Financial economics"},
+        {"id": 333, "name": "Economics of land & energy"},
+        {"id": 334, "name": "Cooperatives"},
+        {"id": 335, "name": "Socialism & related systems"},
+        {"id": 336, "name": "Public finance"},
+        {"id": 337, "name": "International economics"},
+        {"id": 338, "name": "Production"},
+        {"id": 339, "name": "Macroeconomics & related topics"}
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Law",
+      "topics": [
+        {"id": 341, "name": "International law"},
+        {"id": 342, "name": "Constitutional & administrative law"},
+        {"id": 343, "name": "Military, taxation, trade & industrial law"},
+        {"id": 344, "name": "Labor, social, education & cultural law"},
+        {"id": 345, "name": "Criminal law"},
+        {"id": 346, "name": "Private law"},
+        {"id": 347, "name": "Civil procedure & courts"},
+        {"id": 348, "name": "Law (Statutes), regulations, cases"},
+        {"id": 349, "name": "Not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Public Administration & Military Science",
+      "topics": [
+        {"id": 351, "name": "Public administration"},
+        {"id": 352, "name": "General considerations of public administration"},
+        {"id": 353, "name": "Specific fields of public administration"},
+        {"id": 354, "name": "Administration of economy & environment"},
+        {"id": 355, "name": "Military science"},
+        {"id": 356, "name": "Infantry forces & warfare"},
+        {"id": 357, "name": "Mounted forces & warfare"},
+        {"id": 358, "name": "Air & other specialized forces"},
+        {"id": 359, "name": "Sea & other specialized forces"}
+      ]
+    },
+    {
+      "id": 360,
+      "name": "Social Problems & Social Services",
+      "topics": [
+        {"id": 361, "name": "Social problems & services; associations"},
+        {"id": 362, "name": "Social welfare problems & services"},
+        {"id": 363, "name": "Other social problems & services"},
+        {"id": 364, "name": "Criminology"},
+        {"id": 365, "name": "Penal & related institutions"},
+        {"id": 366, "name": "Secret associations & societies"},
+        {"id": 367, "name": "General clubs"},
+        {"id": 368, "name": "Insurance"},
+        {"id": 369, "name": "[Unassigned]"}
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Education",
+      "topics": [
+        {"id": 371, "name": "Schools & their activities; special education"},
+        {"id": 372, "name": "Elementary education"},
+        {"id": 373, "name": "Secondary education"},
+        {"id": 374, "name": "Adult education"},
+        {"id": 375, "name": "Curriculums"},
+        {"id": 376, "name": "[Unassigned]"},
+        {"id": 377, "name": "[Unassigned]"},
+        {"id": 378, "name": "Higher education"},
+        {"id": 379, "name": "[Unassigned]"}
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Commerce, Communications & Transportation",
+      "topics": [
+        {"id": 381, "name": "Internal commerce (Domestic trade)"},
+        {"id": 382, "name": "International commerce (Foreign trade)"},
+        {"id": 383, "name": "Postal communication"},
+        {"id": 384, "name": "Communications; telecommunication"},
+        {"id": 385, "name": "Railroad transportation"},
+        {"id": 386, "name": "Inland waterway & ferry transportation"},
+        {"id": 387, "name": "Water, air & space transportation"},
+        {"id": 388, "name": "Transportation; ground transportation"},
+        {"id": 389, "name": "Metrology & standardization of weights & measures"}
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Customs, Etiquette & Folklore",
+      "topics": [
+        {"id": 391, "name": "Customs of life cycle & domestic life"},
+        {"id": 392, "name": "Customs of social life"},
+        {"id": 393, "name": "Death customs"},
+        {"id": 394, "name": "General customs"},
+        {"id": 395, "name": "Etiquette (Manners)"},
+        {"id": 396, "name": "[Unassigned]"},
+        {"id": 397, "name": "[Unassigned]"},
+        {"id": 398, "name": "Folklore"},
+        {"id": 399, "name": "Customs of warfare & diplomacy"}
+      ]
+    }	
+  ]
+    },
+	
+	{
+      "id": 400,
+      "name": "Language",
+      "subcategories": [
+        
+		{
+      "id": 410,
+      "name": "Linguistics",
+      "topics": [
+        {"id": 411, "name": "Writing systems"},
+        {"id": 412, "name": "Etymology"},
+        {"id": 413, "name": "Dictionaries"},
+        {"id": 414, "name": "Phonology"},
+        {"id": 415, "name": "Structural systems (Grammar)"},
+        {"id": 416, "name": "Not assigned or no longer used"},
+        {"id": 417, "name": "Dialectology & historical linguistics"},
+        {"id": 418, "name": "Standard usage (Prescriptive linguistics)"},
+        {"id": 419, "name": "Sign languages"}
+      ]
+    },
+    {
+      "id": 420,
+      "name": "English & Old English languages",
+      "topics": [
+        {"id": 421, "name": "English writing system & phonology"},
+        {"id": 422, "name": "English etymology"},
+        {"id": 423, "name": "English dictionaries"},
+        {"id": 424, "name": "Not assigned or no longer used"},
+        {"id": 425, "name": "English grammar"},
+        {"id": 426, "name": "Not assigned or no longer used"},
+        {"id": 427, "name": "English dialects"},
+        {"id": 428, "name": "Standard English usage (Prescriptive linguistics)"},
+        {"id": 429, "name": "Old English (Anglo-Saxon)"}
+      ]
+    },
+    {
+      "id": 430,
+      "name": "German & related languages",
+      "topics": [
+        {"id": 431, "name": "German writing system & phonology"},
+        {"id": 432, "name": "German etymology"},
+        {"id": 433, "name": "German dictionaries"},
+        {"id": 434, "name": "Not assigned or no longer used"},
+        {"id": 435, "name": "German grammar"},
+        {"id": 436, "name": "Not assigned or no longer used"},
+        {"id": 437, "name": "German dialects"},
+        {"id": 438, "name": "Standard German usage (Prescriptive linguistics)"},
+        {"id": 439, "name": "Other Germanic languages"}
+      ]
+    },
+    {
+      "id": 440,
+      "name": "French & related languages",
+      "topics": [
+        {"id": 441, "name": "French writing system & phonology"},
+        {"id": 442, "name": "French etymology"},
+        {"id": 443, "name": "French dictionaries"},
+        {"id": 444, "name": "Not assigned or no longer used"},
+        {"id": 445, "name": "French grammar"},
+        {"id": 446, "name": "Not assigned or no longer used"},
+        {"id": 447, "name": "French dialects"},
+        {"id": 448, "name": "Standard French usage (Prescriptive linguistics)"},
+        {"id": 449, "name": "Occitan & Catalan"}
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Italian, Romanian & related languages",
+      "topics": [
+        {"id": 451, "name": "Italian writing system & phonology"},
+        {"id": 452, "name": "Italian etymology"},
+        {"id": 453, "name": "Italian dictionaries"},
+        {"id": 454, "name": "Not assigned or no longer used"},
+        {"id": 455, "name": "Italian grammar"},
+        {"id": 456, "name": "Not assigned or no longer used"},
+        {"id": 457, "name": "Italian dialects"},
+        {"id": 458, "name": "Standard Italian usage (Prescriptive linguistics)"},
+        {"id": 459, "name": "Romanian & related languages"}
+      ]
+    },
+    {
+      "id": 460,
+      "name": "Spanish & Portuguese languages",
+      "topics": [
+        {"id": 461, "name": "Spanish writing system & phonology"},
+        {"id": 462, "name": "Spanish etymology"},
+        {"id": 463, "name": "Spanish dictionaries"},
+        {"id": 464, "name": "Not assigned or no longer used"},
+        {"id": 465, "name": "Spanish grammar"},
+        {"id": 466, "name": "Not assigned or no longer used"},
+        {"id": 467, "name": "Spanish dialects"},
+        {"id": 468, "name": "Standard Spanish usage (Prescriptive linguistics)"},
+        {"id": 469, "name": "Portuguese"}
+      ]
+    },
+    {
+      "id": 470,
+      "name": "Latin & Italic languages",
+      "topics": [
+        {"id": 471, "name": "Latin writing system & phonology"},
+        {"id": 472, "name": "Latin etymology"},
+        {"id": 473, "name": "Latin dictionaries"},
+        {"id": 474, "name": "Not assigned or no longer used"},
+        {"id": 475, "name": "Latin grammar"},
+        {"id": 476, "name": "Not assigned or no longer used"},
+        {"id": 477, "name": "Old, Post-Classical, Early Modern Latin"},
+        {"id": 478, "name": "Classical Latin usage (Prescriptive linguistics)"},
+        {"id": 479, "name": "Other Italic languages"}
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Classical & modern Greek languages",
+      "topics": [
+        {"id": 481, "name": "Classical Greek writing system & phonology"},
+        {"id": 482, "name": "Classical Greek etymology"},
+        {"id": 483, "name": "Classical Greek dictionaries"},
+        {"id": 484, "name": "Not assigned or no longer used"},
+        {"id": 485, "name": "Classical Greek grammar"},
+        {"id": 486, "name": "Not assigned or no longer used"},
+        {"id": 487, "name": "Byzantine & Medieval Greek"},
+        {"id": 488, "name": "Modern Greek usage (Prescriptive linguistics)"},
+        {"id": 489, "name": "Other Hellenic languages"}
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Other languages",
+      "topics": [
+        {"id": 491, "name": "East Indo-European & Celtic languages"},
+        {"id": 492, "name": "Afro-Asiatic languages"},
+        {"id": 493, "name": "Non-Semitic Afro-Asiatic languages"},
+        {"id": 494, "name": "Altaic, Uralic, Hyperborean & Dravidian languages"},
+        {"id": 495, "name": "Languages of East & Southeast Asia"},
+        {"id": 496, "name": "African languages"},
+        {"id": 497, "name": "North American native languages"},
+        {"id": 498, "name": "South American native languages"},
+        {"id": 499, "name": "Austronesian & other languages"}
+      ]
+    }
+   ]
+  },
+	{
+      "id": 500,
+      "name": "Science",
+      "subcategories": [
+        {
+      "id": 510,
+      "name": "Mathematics",
+      "topics": [
+        {"id": 511, "name": "General principles of mathematics"},
+        {"id": 512, "name": "Algebra"},
+        {"id": 513, "name": "Arithmetic"},
+        {"id": 514, "name": "Topology"},
+        {"id": 515, "name": "Analysis"},
+        {"id": 516, "name": "Geometry"},
+        {"id": 517, "name": "Not assigned or no longer used"},
+        {"id": 518, "name": "Numerical analysis"},
+        {"id": 519, "name": "Probabilities & applied mathematics"}
+      ]
+    },
+    {
+      "id": 520,
+      "name": "Astronomy",
+      "topics": [
+        {"id": 521, "name": "Celestial mechanics"},
+        {"id": 522, "name": "Techniques, equipment, materials"},
+        {"id": 523, "name": "Specific celestial bodies & phenomena"},
+        {"id": 524, "name": "Not assigned or no longer used"},
+        {"id": 525, "name": "Earth (Astronomical geography)"},
+        {"id": 526, "name": "Mathematical geography"},
+        {"id": 527, "name": "Celestial navigation"},
+        {"id": 528, "name": "Ephemerides"},
+        {"id": 529, "name": "Chronology"}
+      ]
+    },
+    {
+      "id": 530,
+      "name": "Physics",
+      "topics": [
+        {"id": 531, "name": "Classical mechanics; Solid mechanics"},
+        {"id": 532, "name": "Fluid mechanics; Liquid mechanics"},
+        {"id": 533, "name": "Gas mechanics"},
+        {"id": 534, "name": "Sound & related vibrations"},
+        {"id": 535, "name": "Light & related radiations"},
+        {"id": 536, "name": "Heat"},
+        {"id": 537, "name": "Electricity & electronics"},
+        {"id": 538, "name": "Magnetism"},
+        {"id": 539, "name": "Modern physics"}
+      ]
+    },
+    {
+      "id": 540,
+      "name": "Chemistry & Crystallography",
+      "topics": [
+        {"id": 541, "name": "Physical chemistry"},
+        {"id": 542, "name": "Techniques, equipment, materials"},
+        {"id": 543, "name": "Analytical chemistry"},
+        {"id": 544, "name": "Qualitative analysis"},
+        {"id": 545, "name": "Not assigned or no longer used"},
+        {"id": 546, "name": "Inorganic chemistry"},
+        {"id": 547, "name": "Organic chemistry"},
+        {"id": 548, "name": "Crystallography"},
+        {"id": 549, "name": "Mineralogy"}
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Earth Sciences & Geology",
+      "topics": [
+        {"id": 551, "name": "Geology, hydrology, meteorology"},
+        {"id": 552, "name": "Petrology"},
+        {"id": 553, "name": "Economic geology"},
+        {"id": 554, "name": "Earth sciences of Europe"},
+        {"id": 555, "name": "Earth sciences of Asia"},
+        {"id": 556, "name": "Earth sciences of Africa"},
+        {"id": 557, "name": "Earth sciences of North America"},
+        {"id": 558, "name": "Earth sciences of South America"},
+        {"id": 559, "name": "Earth sciences of other areas"}
+      ]
+    },
+    {
+      "id": 560,
+      "name": "Fossils & prehistoric life",
+      "topics": [
+        {"id": 561, "name": "Paleontology"},
+        {"id": 562, "name": "Fossil invertebrates"},
+        {"id": 563, "name": "Fossil plants"},
+        {"id": 564, "name": "Fossil mammals"},
+        {"id": 565, "name": "Fossil birds"},
+        {"id": 566, "name": "Fossil reptiles"},
+        {"id": 567, "name": "Fossil cold-blooded vertebrates"},
+        {"id": 568, "name": "Fossil arthropods"},
+        {"id": 569, "name": "Fossil other animals"}
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Life Sciences; Biology",
+      "topics": [
+        {"id": 571, "name": "Physiology & related subjects"},
+        {"id": 572, "name": "Biochemistry"},
+        {"id": 573, "name": "Specific physiological systems in animals"},
+        {"id": 574, "name": "Not assigned or no longer used"},
+        {"id": 575, "name": "Specific parts of & systems in plants"},
+        {"id": 576, "name": "Genetics & evolution"},
+        {"id": 577, "name": "Ecology"},
+        {"id": 578, "name": "Natural history of organisms"},
+        {"id": 579, "name": "Microorganisms, fungi, algae"}
+      ]
+    },
+    {
+      "id": 580,
+      "name": "Botanical sciences",
+      "topics": [
+        {"id": 581, "name": "Botany"},
+        {"id": 582, "name": "Specific families of flowering plants"},
+        {"id": 583, "name": "Dicotyledons"},
+        {"id": 584, "name": "Monocotyledons"},
+        {"id": 585, "name": "Gymnosperms"},
+        {"id": 586, "name": "Cryptogams"},
+        {"id": 587, "name": "Pteridophytes"},
+        {"id": 588, "name": "Bryophytes"},
+        {"id": 589, "name": "Not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 590,
+      "name": "Zoological sciences",
+      "topics": []
+    }
+      ]
+    },
+	
+	{
+      "id": 600,
+      "name": "Technology",
+      "subcategories": [
+        {
+      "id": 610,
+      "name": "Medicine & Health",
+      "topics": [
+        {"id": 611, "name": "Human anatomy, cytology, histology"},
+        {"id": 612, "name": "Human physiology"},
+        {"id": 613, "name": "Personal health & safety"},
+        {"id": 614, "name": "Incidence & prevention of disease"},
+        {"id": 615, "name": "Pharmacology & therapeutics"},
+        {"id": 616, "name": "Diseases"},
+        {"id": 617, "name": "Surgery & related medical specialties"},
+        {"id": 618, "name": "Gynecology, obstetrics, pediatrics, geriatrics"},
+        {"id": 619, "name": "Experimental medicine"}
+      ]
+    },
+    {
+      "id": 620,
+      "name": "Engineering",
+      "topics": [
+        {"id": 621, "name": "Applied physics"},
+        {"id": 622, "name": "Mining & related operations"},
+        {"id": 623, "name": "Military & nautical engineering"},
+        {"id": 624, "name": "Civil engineering"},
+        {"id": 625, "name": "Engineering of railroads, roads & canals"},
+        {"id": 626, "name": "Not assigned or no longer used"},
+        {"id": 627, "name": "Hydraulic engineering"},
+        {"id": 628, "name": "Sanitary engineering"},
+        {"id": 629, "name": "Other branches of engineering"}
+      ]
+    },
+    {
+      "id": 630,
+      "name": "Agriculture & Animal Husbandry",
+      "topics": [
+        {"id": 631, "name": "Techniques, equipment, materials"},
+        {"id": 632, "name": "Plant injuries, diseases, pests"},
+        {"id": 633, "name": "Field & plantation crops"},
+        {"id": 634, "name": "Orchards, fruits, forestry"},
+        {"id": 635, "name": "Garden crops (Horticulture)"},
+        {"id": 636, "name": "Animal husbandry"},
+        {"id": 637, "name": "Processing & related operations"},
+        {"id": 638, "name": "Insect culture"},
+        {"id": 639, "name": "Hunting, fishing, conservation"}
+      ]
+    },
+    {
+      "id": 640,
+      "name": "Home & Family Management",
+      "topics": [
+        {"id": 641, "name": "Food & drink"},
+        {"id": 642, "name": "Meals & table service"},
+        {"id": 643, "name": "Housing & household equipment"},
+        {"id": 644, "name": "Household utilities"},
+        {"id": 645, "name": "Household furnishings"},
+        {"id": 646, "name": "Clothing & accessories"},
+        {"id": 647, "name": "Management of public households"},
+        {"id": 648, "name": "Housekeeping"},
+        {"id": 649, "name": "Child rearing & home care of persons"}
+      ]
+    },
+    {
+      "id": 650,
+      "name": "Management & Public Relations",
+      "topics": [
+        {"id": 651, "name": "Office services"},
+        {"id": 652, "name": "Processes of written communication"},
+        {"id": 653, "name": "Shorthand"},
+        {"id": 654, "name": "Not assigned or no longer used"},
+        {"id": 655, "name": "Not assigned or no longer used"},
+        {"id": 656, "name": "Not assigned or no longer used"},
+        {"id": 657, "name": "Accounting"},
+        {"id": 658, "name": "General management"},
+        {"id": 659, "name": "Advertising & public relations"}
+      ]
+    },
+    {
+      "id": 660,
+      "name": "Chemical Engineering",
+      "topics": [
+        {"id": 661, "name": "Technology of industrial chemicals"},
+        {"id": 662, "name": "Explosives, fuels, related products"},
+        {"id": 663, "name": "Beverage technology"},
+        {"id": 664, "name": "Food technology"},
+        {"id": 665, "name": "Industrial oils, fats, waxes"},
+        {"id": 666, "name": "Ceramic & allied technologies"},
+        {"id": 667, "name": "Cleaning, color, coating, related technologies"},
+        {"id": 668, "name": "Technology of other organic products"},
+        {"id": 669, "name": "Metallurgy"}
+      ]
+    },
+    {
+      "id": 670,
+      "name": "Manufacturing",
+      "topics": [
+        {"id": 671, "name": "Techniques, equipment, materials"},
+        {"id": 672, "name": "Not assigned or no longer used"},
+        {"id": 673, "name": "Not assigned or no longer used"},
+        {"id": 674, "name": "Lumber processing, wood products, cork"},
+        {"id": 675, "name": "Leather & fur processing"},
+        {"id": 676, "name": "Pulp & paper technology"},
+        {"id": 677, "name": "Textiles"},
+        {"id": 678, "name": "Elastomers & elastomer products"},
+        {"id": 679, "name": "Other products of specific materials"}
+      ]
+    },
+    {
+      "id": 680,
+      "name": "Manufacture for Specific Uses",
+      "topics": [
+        {"id": 681, "name": "Precision instruments & other devices"},
+        {"id": 682, "name": "Small forge work (Blacksmithing)"},
+        {"id": 683, "name": "Hardware & household appliances"},
+        {"id": 684, "name": "Furnishings & home workshops"},
+        {"id": 685, "name": "Leather & fur goods"},
+        {"id": 686, "name": "Printing & related activities"},
+        {"id": 687, "name": "Clothing"},
+        {"id": 688, "name": "Other final products & packaging"},
+        {"id": 689, "name": "Not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 690,
+      "name": "Construction of Buildings",
+      "topics": [
+        {"id": 691, "name": "Building materials"},
+        {"id": 692, "name": "Auxiliary construction practices"},
+        {"id": 693, "name": "Specific materials & purposes"},
+        {"id": 694, "name": "Wood construction"},
+        {"id": 695, "name": "Roof covering"},
+        {"id": 696, "name": "Utilities"},
+        {"id": 697, "name": "Heating, ventilating, air-conditioning"},
+        {"id": 698, "name": "Detail finishing"},
+        {"id": 699, "name": "Not assigned or no longer used"}
+      ]
+    }
+      ]
+    },
+	
+	{
+      "id": 700,
+      "name": "Arts & Recreation",
+      "subcategories": [
+        {
+      "id": 710,
+      "name": "Civic & Landscape Art",
+      "topics": [
+        {"id": 711, "name": "Area planning"},
+        {"id": 712, "name": "Landscape architecture"},
+        {"id": 713, "name": "Landscape design of cemeteries"},
+        {"id": 714, "name": "Water features"},
+        {"id": 715, "name": "Woody plants"},
+        {"id": 716, "name": "Herbaceous plants"},
+        {"id": 717, "name": "Structures in landscape architecture"},
+        {"id": 718, "name": "Landscape design of recreation areas"},
+        {"id": 719, "name": "Natural landscapes"}
+      ]
+    },
+    {
+      "id": 720,
+      "name": "Architecture",
+      "topics": [
+        {"id": 721, "name": "Architectural structure"},
+        {"id": 722, "name": "Design & decoration"},
+        {"id": 723, "name": "Civil & landscape engineering"},
+        {"id": 724, "name": "Not assigned or no longer used"},
+        {"id": 725, "name": "Public structures"},
+        {"id": 726, "name": "Buildings for religious purposes"},
+        {"id": 727, "name": "Buildings for educational & research purposes"},
+        {"id": 728, "name": "Buildings for residential purposes"},
+        {"id": 729, "name": "Buildings for other purposes"}
+      ]
+    },
+    {
+      "id": 730,
+      "name": "Sculpture & Installations",
+      "topics": [
+        {"id": 731, "name": "Processes, forms, subjects of sculpture"},
+        {"id": 732, "name": "Sculpture in metal, stone, ceramics, & glass"},
+        {"id": 733, "name": "Sculpture in plaster, mud, earth, & natural materials"},
+        {"id": 734, "name": "Sculpture in wood, horn, ivory, & bone"},
+        {"id": 735, "name": "Sculpture in composite & ephemeral materials"},
+        {"id": 736, "name": "Carving & carvings"},
+        {"id": 737, "name": "Numismatics & sigillography"},
+        {"id": 738, "name": "Ceramic arts"},
+        {"id": 739, "name": "Art metalwork"}
+      ]
+    },
+    {
+      "id": 740,
+      "name": "Drawing & Decorative Arts",
+      "topics": [
+        {"id": 741, "name": "Drawing & drawings"},
+        {"id": 742, "name": "Perspective & gestural drawing"},
+        {"id": 743, "name": "Drawing & drawings by subject"},
+        {"id": 744, "name": "Not assigned or no longer used"},
+        {"id": 745, "name": "Decorative design"},
+        {"id": 746, "name": "Textile arts"},
+        {"id": 747, "name": "Interior decoration"},
+        {"id": 748, "name": "Glass"},
+        {"id": 749, "name": "Other decorative arts"}
+      ]
+    },
+    {
+      "id": 750,
+      "name": "Painting & Paintings",
+      "topics": [
+        {"id": 751, "name": "Techniques, procedures, apparatus, equipment, materials, forms"},
+        {"id": 752, "name": "Color"},
+        {"id": 753, "name": "Symbolism, allegory, mythology, legend"},
+        {"id": 754, "name": "Genre paintings"},
+        {"id": 755, "name": "Religion, religious symbolism, iconography"},
+        {"id": 756, "name": "Not assigned or no longer used"},
+        {"id": 757, "name": "Human figures & their parts"},
+        {"id": 758, "name": "Other subjects depicted in paintings"},
+        {"id": 759, "name": "History, geographic treatment, biography of paintings"}
+      ]
+    },
+    {
+      "id": 760,
+      "name": "Graphic Arts & Printmaking",
+      "topics": [
+        {"id": 761, "name": "Relief processes (Block printing)"},
+        {"id": 762, "name": "Not assigned or no longer used"},
+        {"id": 763, "name": "Lithographic processes"},
+        {"id": 764, "name": "Chromolithography & serigraphy"},
+        {"id": 765, "name": "Metal engraving"},
+        {"id": 766, "name": "Mezzotinting & aquatinting"},
+        {"id": 767, "name": "Etching & drypoint"},
+        {"id": 768, "name": "Other graphic arts"},
+        {"id": 769, "name": "Prints"}
+      ]
+    },
+    {
+      "id": 770,
+      "name": "Photography & Photographs",
+      "topics": [
+        {"id": 771, "name": "Techniques, equipment, materials"},
+        {"id": 772, "name": "Metallic salt processes"},
+        {"id": 773, "name": "Pigment processes of printing"},
+        {"id": 774, "name": "Holography"},
+        {"id": 775, "name": "Digital photography"},
+        {"id": 776, "name": "Computer art (Digital art)"},
+        {"id": 777, "name": "Not assigned or no longer used"},
+        {"id": 778, "name": "Fields & kinds of photography"},
+        {"id": 779, "name": "Photographs"}
+      ]
+    },
+    {
+      "id": 780,
+      "name": "Music",
+      "topics": [
+        {"id": 781, "name": "General principles & musical forms"},
+        {"id": 782, "name": "Vocal music"},
+        {"id": 783, "name": "Music for single voices"},
+        {"id": 784, "name": "Instruments & instrumental ensembles"},
+        {"id": 785, "name": "Ensembles with only one instrument per part"},
+        {"id": 786, "name": "Keyboard & other instruments"},
+        {"id": 787, "name": "Stringed instruments"},
+        {"id": 788, "name": "Wind instruments"},
+        {"id": 789, "name": "Not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 790,
+      "name": "Sports, Games & Entertainment",
+      "topics": [
+        {"id": 791, "name": "Public performances & spectacles"},
+        {"id": 792, "name": "Stage presentations"},
+        {"id": 793, "name": "Indoor games & amusements"},
+        {"id": 794, "name": "Indoor games of skill"},
+        {"id": 795, "name": "Games of chance"},
+        {"id": 796, "name": "Athletic & outdoor sports & games"},
+        {"id": 797, "name": "Aquatic & air sports"},
+        {"id": 798, "name": "Equestrian sports & animal racing"},
+        {"id": 799, "name": "Fishing, hunting, shooting"}
+      ]
+    }
+      ]
+    },
+	
+	{
+      "id": 800,
+      "name": "Literature",
+      "subcategories": [
+         {
+      "id": 810,
+      "name": "American Literature in English",
+      "topics": [
+        {"id": 811, "name": "Poetry"},
+        {"id": 812, "name": "Drama"},
+        {"id": 813, "name": "Fiction"},
+        {"id": 814, "name": "Essays"},
+        {"id": 815, "name": "Speeches"},
+        {"id": 816, "name": "Letters"},
+        {"id": 817, "name": "Satire & humor"},
+        {"id": 818, "name": "Miscellaneous writings"},
+        {"id": 819, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 820,
+      "name": "English & Old English literatures",
+      "topics": [
+        {"id": 821, "name": "Poetry"},
+        {"id": 822, "name": "Drama"},
+        {"id": 823, "name": "Fiction"},
+        {"id": 824, "name": "Essays"},
+        {"id": 825, "name": "Speeches"},
+        {"id": 826, "name": "Letters"},
+        {"id": 827, "name": "Satire & humor"},
+        {"id": 828, "name": "Miscellaneous writings"},
+        {"id": 829, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 830,
+      "name": "German & related literatures",
+      "topics": [
+        {"id": 831, "name": "Poetry"},
+        {"id": 832, "name": "Drama"},
+        {"id": 833, "name": "Fiction"},
+        {"id": 834, "name": "Essays"},
+        {"id": 835, "name": "Speeches"},
+        {"id": 836, "name": "Letters"},
+        {"id": 837, "name": "Satire & humor"},
+        {"id": 838, "name": "Miscellaneous writings"},
+        {"id": 839, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 840,
+      "name": "French & related literatures",
+      "topics": [
+        {"id": 841, "name": "Poetry"},
+        {"id": 842, "name": "Drama"},
+        {"id": 843, "name": "Fiction"},
+        {"id": 844, "name": "Essays"},
+        {"id": 845, "name": "Speeches"},
+        {"id": 846, "name": "Letters"},
+        {"id": 847, "name": "Satire & humor"},
+        {"id": 848, "name": "Miscellaneous writings"},
+        {"id": 849, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 850,
+      "name": "Italian, Romanian & related literatures",
+      "topics": [
+        {"id": 851, "name": "Poetry"},
+        {"id": 852, "name": "Drama"},
+        {"id": 853, "name": "Fiction"},
+        {"id": 854, "name": "Essays"},
+        {"id": 855, "name": "Speeches"},
+        {"id": 856, "name": "Letters"},
+        {"id": 857, "name": "Satire & humor"},
+        {"id": 858, "name": "Miscellaneous writings"},
+        {"id": 859, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 860,
+      "name": "Spanish & Portuguese literatures",
+      "topics": [
+        {"id": 861, "name": "Poetry"},
+        {"id": 862, "name": "Drama"},
+        {"id": 863, "name": "Fiction"},
+        {"id": 864, "name": "Essays"},
+        {"id": 865, "name": "Speeches"},
+        {"id": 866, "name": "Letters"},
+        {"id": 867, "name": "Satire & humor"},
+        {"id": 868, "name": "Miscellaneous writings"},
+        {"id": 869, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 870,
+      "name": "Latin & Italic literatures",
+      "topics": [
+        {"id": 871, "name": "Poetry"},
+        {"id": 872, "name": "Drama"},
+        {"id": 873, "name": "Fiction"},
+        {"id": 874, "name": "Essays"},
+        {"id": 875, "name": "Speeches"},
+        {"id": 876, "name": "Letters"},
+        {"id": 877, "name": "Satire & humor"},
+        {"id": 878, "name": "Miscellaneous writings"},
+        {"id": 879, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 880,
+      "name": "Classical & modern Greek literatures",
+      "topics": [
+        {"id": 881, "name": "Poetry"},
+        {"id": 882, "name": "Drama"},
+        {"id": 883, "name": "Fiction"},
+        {"id": 884, "name": "Essays"},
+        {"id": 885, "name": "Speeches"},
+        {"id": 886, "name": "Letters"},
+        {"id": 887, "name": "Satire & humor"},
+        {"id": 888, "name": "Miscellaneous writings"},
+        {"id": 889, "name": "Literatures not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 890,
+      "name": "Other literatures",
+      "topics": [
+        {"id": 891, "name": "Poetry"},
+        {"id": 892, "name": "Drama"},
+        {"id": 893, "name": "Fiction"},
+        {"id": 894, "name": "Essays"},
+        {"id": 895, "name": "Speeches"},
+        {"id": 896, "name": "Letters"},
+        {"id": 897, "name": "Satire & humor"},
+        {"id": 898, "name": "Miscellaneous writings"},
+        {"id": 899, "name": "Literatures not assigned or no longer used"}
+      ]
+    }
+      ]
+    },
+	{
+      "id": 900,
+      "name": "History & Geography",
+      "subcategories": [
+        {
+      "id": 910,
+      "name": "Geography & Travel",
+      "topics": [
+        {"id": 911, "name": "Historical geography"},
+        {"id": 912, "name": "Graphic representations of Earth"},
+        {"id": 913, "name": "Geography of & travel in ancient world"},
+        {"id": 914, "name": "Geography of & travel in Europe"},
+        {"id": 915, "name": "Geography of & travel in Asia"},
+        {"id": 916, "name": "Geography of & travel in Africa"},
+        {"id": 917, "name": "Geography of & travel in North America"},
+        {"id": 918, "name": "Geography of & travel in South America"},
+        {"id": 919, "name": "Geography of & travel in other areas"}
+      ]
+    },
+    {
+      "id": 920,
+      "name": "Biography & Genealogy",
+      "topics": [
+        {"id": 921, "name": "Collections of biography"},
+        {"id": 922, "name": "Not assigned or no longer used"},
+        {"id": 923, "name": "Not assigned or no longer used"},
+        {"id": 924, "name": "Not assigned or no longer used"},
+        {"id": 925, "name": "Not assigned or no longer used"},
+        {"id": 926, "name": "Not assigned or no longer used"},
+        {"id": 927, "name": "Not assigned or no longer used"},
+        {"id": 928, "name": "Not assigned or no longer used"},
+        {"id": 929, "name": "Genealogy, names, insignia"}
+      ]
+    },
+    {
+      "id": 930,
+      "name": "History of Ancient World (to ca. 499)",
+      "topics": [
+        {"id": 931, "name": "Not assigned or no longer used"},
+        {"id": 932, "name": "Not assigned or no longer used"},
+        {"id": 933, "name": "Not assigned or no longer used"},
+        {"id": 934, "name": "Not assigned or no longer used"},
+        {"id": 935, "name": "Not assigned or no longer used"},
+        {"id": 936, "name": "Not assigned or no longer used"},
+        {"id": 937, "name": "Not assigned or no longer used"},
+        {"id": 938, "name": "Not assigned or no longer used"},
+        {"id": 939, "name": "Not assigned or no longer used"}
+      ]
+    },
+    {
+      "id": 940,
+      "name": "History of Europe",
+      "topics": [
+        {"id": 941, "name": "British Isles"},
+        {"id": 942, "name": "England & Wales"},
+        {"id": 943, "name": "Central Europe; Germany"},
+        {"id": 944, "name": "France & Monaco"},
+        {"id": 945, "name": "Italian Peninsula & adjacent islands"},
+        {"id": 946, "name": "Iberian Peninsula & adjacent islands"},
+        {"id": 947, "name": "Eastern Europe; Russia"},
+        {"id": 948, "name": "Scandinavia"},
+        {"id": 949, "name": "Other parts of Europe"}
+      ]
+    },
+    {
+      "id": 950,
+      "name": "History of Asia",
+      "topics": [
+        {"id": 951, "name": "China & adjacent areas"},
+        {"id": 952, "name": "Japan"},
+        {"id": 953, "name": "Not assigned or no longer used"},
+        {"id": 954, "name": "South Asia; India"},
+        {"id": 955, "name": "Iran"},
+        {"id": 956, "name": "Middle East (Near East)"},
+        {"id": 957, "name": "Siberia (Asiatic Russia)"},
+        {"id": 958, "name": "Central Asia"},
+        {"id": 959, "name": "Southeast Asia"}
+      ]
+    },
+    {
+      "id": 960,
+      "name": "History of Africa",
+      "topics": [
+        {"id": 961, "name": "Tunisia & Libya"},
+        {"id": 962, "name": "Egypt & Sudan"},
+        {"id": 963, "name": "Ethiopia & Eritrea"},
+        {"id": 964, "name": "North Central Africa"},
+        {"id": 965, "name": "Northeast African countries"},
+        {"id": 966, "name": "South African Republic & neighboring territories"},
+        {"id": 967, "name": "South African Republic & neighboring territories"},
+        {"id": 968, "name": "West African Republics of ancient Africa"},
+        {"id": 969, "name": "Other parts of Africa"}
+      ]
+    },
+    {
+      "id": 970,
+      "name": "History of North America",
+      "topics": [
+        {"id": 971, "name": "Canada"},
+        {"id": 972, "name": "Middle America; Mexico"},
+        {"id": 973, "name": "United States"},
+        {"id": 974, "name": "Northeastern United States"},
+        {"id": 975, "name": "Southeastern United States"},
+        {"id": 976, "name": "South Central United States"},
+        {"id": 977, "name": "North Central United States"},
+        {"id": 978, "name": "Western United States"},
+        {"id": 979, "name": "Great Basin & Pacific Slope"}
+      ]
+    },
+    {
+      "id": 980,
+      "name": "History of South America",
+      "topics": [
+        {"id": 981, "name": "Brazil"},
+        {"id": 982, "name": "Argentina"},
+        {"id": 983, "name": "Chile"},
+        {"id": 984, "name": "Bolivia"},
+        {"id": 985, "name": "Peru"},
+        {"id": 986, "name": "Colombia & Ecuador"},
+        {"id": 987, "name": "Venezuela"},
+        {"id": 988, "name": "Guiana"},
+        {"id": 989, "name": "Paraguay & Uruguay"}
+      ]
+    },
+    {
+      "id": 990,
+      "name": "History of Other Areas",
+      "topics": [
+        {"id": 991, "name": "[Unassigned]"},
+        {"id": 992, "name": "[Unassigned]"},
+        {"id": 993, "name": "[Unassigned]"},
+        {"id": 994, "name": "[Unassigned]"},
+        {"id": 995, "name": "[Unassigned]"},
+        {"id": 996, "name": "[Unassigned]"},
+        {"id": 997, "name": "[Unassigned]"},
+        {"id": 998, "name": "[Unassigned]"},
+        {"id": 999, "name": "Extraterrestrial worlds"}
+      ]
+    }
+      ]
+    },
+  ]
+}

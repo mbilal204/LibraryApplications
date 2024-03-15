@@ -1,0 +1,860 @@
+
+000 General Knowledge 
+	010 Bibliographies
+    		o 011 General bibliographies
+    		o 012 Bibliographies of individuals
+    		o 013 Bibliographies of works on specific subjects
+    		o 014 Bibliographies of anonymous & pseudonymous works
+    		o 015 Bibliographies of works from specific places
+    		o 016 Bibliographies of works from specific periods
+    		o 017 Subject catalogs
+    		o 018 Author catalogs
+    		o 019 Dictionary catalogs
+	020 Library & Information Sciences
+    		o 021 Library relationships
+    		o 022 Administration of physical plant
+    		o 023 Personnel management
+    		o 024 Not assigned or no longer used
+    		o 025 Library operations
+    		o 026 Libraries for specific subjects
+    		o 027 General libraries
+    		o 028 Reading & use of other information media
+    		o 029 Not assigned or no longer used
+	030 Encyclopedias & Books of Facts
+    		o 031 General encyclopedias
+    		o 032 Encyclopedias in specific languages
+    		o 033 Encyclopedias in specific forms
+    		o 034 Not assigned or no longer used
+    		o 035 Encyclopedias in specific areas
+    		o 036 Special topics
+    		o 037 Encyclopedias in specific places
+    		o 038 Not assigned or no longer used
+    		o 039 Books of facts
+	040 [Unassigned]
+	050 Magazines, Journals & Serials
+    		o 051 Serials in American English
+    		o 052 Serials in English
+    		o 053 Serials in other Germanic languages
+    		o 054 Serials in French, Provencal & Catalan
+    		o 055 Serials in Italian, Romanian & related languages
+    		o 056 Serials in Spanish & Portuguese
+    		o 057 Serials in Slavic languages
+    		o 058 Serials in Scandinavian languages
+    		o 059 Serials in other languages
+	060 Associations, Organizations & Museums
+    		o 061 Organizations in North America
+    		o 062 Organizations in British Isles; in England
+    		o 063 Organizations in Central Europe; in Germany
+    		o 064 Organizations in France & Monaco
+    		o 065 Organizations in Italy & adjacent islands
+    		o 066 Organizations in Iberian Peninsula & adjacent islands
+    		o 067 Organizations in Eastern Europe; in Russia
+    		o 068 Organizations in other geographic areas
+    		o 069 Museums
+	070 News Media, Journalism & Publishing
+    		o 071 Newspapers in North America
+   		o 072 Newspapers in British Isles; in England
+    		o 073 Newspapers in Central Europe; in Germany
+    		o 074 Newspapers in France & Monaco
+    		o 075 Newspapers in Italy & adjacent islands
+    		o 076 Newspapers in Iberian Peninsula & adjacent islands
+    		o 077 Newspapers in Eastern Europe; in Russia
+    		o 078 Newspapers in Scandinavia
+    		o 079 Newspapers in other geographic areas
+	080 Quotations & Other General Collections
+    		o 081 General collections in American English
+    		o 082 General collections in English
+    		o 083 General collections in other Germanic languages
+    		o 084 General collections in French, Provencal & Catalan
+    		o 085 General collections in Italian, Romanian & related languages
+    		o 086 General collections in Spanish & Portuguese
+    		o 087 General collections in Slavic languages
+    		o 088 General collections in Scandinavian languages
+    		o 089 General collections in other languages
+	090 Manuscripts & Rare Books
+    		o 091 Manuscripts in American English
+    		o 092 Manuscripts in English
+    		o 093 Manuscripts in other Germanic languages
+    		o 094 Manuscripts in French, Provencal & Catalan
+   		o 095 Manuscripts in Italian, Romanian & related languages
+    		o 096 Manuscripts in Spanish & Portuguese
+    		o 097 Manuscripts in Slavic languages
+    		o 098 Manuscripts in Scandinavian languages
+    		o 099 Manuscripts in other languages
+100 Philosophy and Psychology
+	110 Metaphysics
+		o 111 Ontology
+  		o 112 Methods of metaphysics
+  		o 113 Cosmology (Philosophy of nature)
+  		o 114 Space
+  		o 115 Time
+  		o 116 Change
+  		o 117 Structures
+  		o 118 Force & energy
+  		o 119 Number & quantity
+	120 Epistemology
+		o 121 Epistemology (Theory of knowledge)
+  		o 122 Scepticism
+  		o 123 Determinism & indeterminism
+  		o 124 Teleology
+  		o 125 Probability & induction
+  		o 126 Theories of causation
+	130 Parapsychology & Occultism
+		o 131 Parapsychology
+  		o 132 Divination & oracles
+  		o 133 Specific topics in parapsychology & occultism
+  		o 134 Mesmerism & Clairvoyance
+  		o 135 Dreams & mysteries
+	140 Philosophical Schools of Thought
+		o 141 Idealism & related systems & doctrines
+  		o 142 Critical philosophy
+  		o 143 Intuitionism & Bergsonian philosophy
+  		o 144 Humanism & related systems & doctrines
+  		o 145 Sensationalism
+	150 Psychology
+		o 151 Perception, movement, emotions, drives
+  		o 152 Sensory perception, movement, emotions, drives
+  		o 153 Mental processes & intelligence
+  		o 154 Subconscious & altered states & processes
+  		o 155 Differential & developmental psychology
+	160 [Unassigned]
+	170 Ethics
+		o 171 Ethical systems
+  		o 172 Political ethics
+  		o 173 Ethical issues in social relations
+  		o 174 Occupational ethics
+  		o 175 Ethics of recreation & leisure
+	180 Ancient, Medieval & Eastern Philosophy
+		o 181 Early Western philosophy
+  		o 182 Pre-Socratic Greek philosophies
+  		o 183 Sophistic, Socratic, Platonic philosophies
+  		o 184 Aristotelian philosophy
+  		o 185 Epicurean & related systems & doctrines
+	190 Modern Western Philosophy
+		o 191 Philosophy of the United States & Canada
+  		o 192 British philosophy
+  		o 193 German & Austrian philosophy
+  		o 194 French philosophy
+  		o 195 Italian philosophy
+200 Religion
+	210 Philosophy of Religion
+		o 211 Concepts of God
+    		o 212 Existence, immortality, afterlife of the soul
+    		o 213 Creation
+    		o 214 Theodicy
+    		o 215 Science & religion
+    		o 216 No longer used—formerly Evil
+    		o 217 No longer used—formerly Prayer
+    		o 218 Humankind
+    		o 219 No longer used—formerly Analogies
+	220 The Bible
+		o 221 Old Testament
+    		o 222 Historical books of Old Testament
+    		o 223 Poetic books of Old Testament
+    		o 224 Prophetic books of Old Testament
+    		o 225 New Testament
+    		o 226 Gospels & Acts
+    		o 227 Epistles
+    		o 228 Revelation (Apocalypse)
+    		o 229 Apocrypha & pseudepigrapha
+	230 Christianity & Christian Theology
+		o 231 God
+    		o 232 Jesus Christ & his family
+    		o 233 Humankind
+    		o 234 Salvation & grace
+    		o 235 Spiritual beings
+    		o 236 Eschatology
+    		o 237 No longer used—formerly Satanism & demonology
+    		o 238 Creeds & catechisms
+    		o 239 Apologetics & polemics
+	240 Christian Moral & Devotional Theology
+		o 241 Christian ethics
+    		o 242 Devotional literature
+    		o 243 Evangelistic writings for individuals
+    		o 244 No longer used—formerly Religious fiction
+    		o 245 No longer used—formerly Hymnology
+    		o 246 Use of art in Christianity
+    		o 247 Church furnishings & articles
+   		o 248 Christian experience, practice, life
+    		o 249 Christian observances in family life
+	250 Christian Orders & Local Church
+		o 251 Preaching (Homiletics)
+    		o 252 Texts of sermons
+    		o 253 Pastoral office (Pastoral theology)
+    		o 254 Parish government & administration
+    		o 255 No longer used—formerly Christian congregations
+    		o 256 No longer used—formerly Religious societies
+    		o 257 No longer used—formerly Sunday schools
+    		o 258 No longer used—formerly Church ceremonies, services, rituals
+    		o 259 Activities of local churches & congregations
+	260 Christian Social Theology
+		o 261 Social theology
+    		o 262 Ecclesiology
+    		o 263 No longer used—formerly Times & places of religious observance
+    		o 264 Public worship
+    		o 265 Sacraments, other rites & acts
+    		o 266 Missions
+    		o 267 Associations for religious work
+    		o 268 Religious education
+    		o 269 Spiritual renewal
+	270 History of Christianity
+		o 271 Religious congregations & orders in church history
+    		o 272 Persecutions in church history
+    		o 273 Doctrinal controversies & heresies in general church history
+    		o 274 Christian church in Europe
+    		o 275 Christian church in Asia
+    		o 276 Christian church in Africa
+    		o 277 Christian church in North America
+    		o 278 Christian church in South America
+    		o 279 Christian church in other areas
+	280 Christian Denominations & Sects
+		o 281 Early church & Eastern churches
+    		o 282 Roman Catholic Church
+    		o 283 Anglican churches
+    		o 284 Protestants of Continental origin
+    		o 285 Presbyterian, Reformed, Congregational
+    		o 286 Baptist, Disciples of Christ, Adventist
+    		o 287 Methodist & related churches
+    		o 288 No longer used—formerly Unitarian
+    		o 289 Other denominations & sects
+	290 Other Religions
+		o 291 Comparative religion
+    		o 292 Classical (Greek & Roman) religion
+    		o 293 Germanic religion
+    		o 294 Religions of Indic origin
+    		o 295 Zoroastrianism (Mazdaism, Parseeism)
+    		o 296 Judaism
+    		o 297 Islam & religions originating in it
+    		o 298 No longer used—formerly Mormonism
+    		o 299 Religions not provided for elsewhere	
+300 Social Sciences
+	310 Statistics
+		o 311 [Unassigned]
+  		o 312 Not assigned or no longer used
+  		o 313 Not assigned or no longer used
+  		o 314 General statistics
+  		o 315 Not assigned or no longer used
+  		o 316 Not assigned or no longer used
+  		o 317 Not assigned or no longer used
+  		o 318 Generalized specific kinds of statistics
+  		o 319 Not assigned or no longer used
+	320 Political Science
+		o 321 Systems of governments & states
+  		o 322 Relation of state to organized groups & their members
+  		o 323 Civil & political rights
+  		o 324 The political process
+  		o 325 International migration & colonization
+  		o 326 Slavery & emancipation
+  		o 327 International relations
+  		o 328 The legislative process
+  		o 329 [Unassigned]
+	330 Economics
+		o 331 Labor economics
+  		o 332 Financial economics
+  		o 333 Economics of land & energy
+  		o 334 Cooperatives
+  		o 335 Socialism & related systems
+  		o 336 Public finance
+  		o 337 International economics
+  		o 338 Production
+  		o 339 Macroeconomics & related topics
+	340 Law
+		o 341 International law
+  		o 342 Constitutional & administrative law
+  		o 343 Military, taxation, trade & industrial law
+  		o 344 Labor, social, education & cultural law
+  		o 345 Criminal law
+  		o 346 Private law
+  		o 347 Civil procedure & courts
+  		o 348 Law (Statutes), regulations, cases
+  		o 349 Not assigned or no longer used
+	350 Public Administration & Military Science
+		o 351 Public administration
+  		o 352 General considerations of public administration
+  		o 353 Specific fields of public administration
+  		o 354 Administration of economy & environment
+  		o 355 Military science
+  		o 356 Infantry forces & warfare
+  		o 357 Mounted forces & warfare
+  		o 358 Air & other specialized forces
+  		o 359 Sea & other specialized forces
+	360 Social Problems & Social Services
+  		o 361 Social problems & services; associations
+  		o 362 Social welfare problems & services
+  		o 363 Other social problems & services
+  		o 364 Criminology
+  		o 365 Penal & related institutions
+  		o 366 Secret associations & societies
+  		o 367 General clubs
+  		o 368 Insurance
+  		o 369 [Unassigned]
+	370 Education
+		o 371 Schools & their activities; special education
+  		o 372 Elementary education
+  		o 373 Secondary education
+  		o 374 Adult education
+  		o 375 Curriculums
+  		o 376 [Unassigned]
+  		o 377 [Unassigned]
+  		o 378 Higher education
+  		o 379 [Unassigned]
+	380 Commerce, Communications & Transportation
+		o 381 Internal commerce (Domestic trade)
+  		o 382 International commerce (Foreign trade)
+  		o 383 Postal communication
+  		o 384 Communications; telecommunication
+  		o 385 Railroad transportation
+  		o 386 Inland waterway & ferry transportation
+  		o 387 Water, air & space transportation
+  		o 388 Transportation; ground transportation
+  		o 389 Metrology & standardization of weights & measures
+	390 Customs, Etiquette & Folklore
+		o 391 Customs of life cycle & domestic life
+  		o 392 Customs of social life
+  		o 393 Death customs
+  		o 394 General customs
+  		o 395 Etiquette (Manners)
+  		o 396 [Unassigned]
+  		o 397 [Unassigned]
+  		o 398 Folklore
+  		o 399 Customs of warfare & diplomacy
+400 Language
+	410 Linguistics
+		o 411 Writing systems
+  		o 412 Etymology
+  		o 413 Dictionaries
+  		o 414 Phonology
+  		o 415 Structural systems (Grammar)
+  		o 416 Not assigned or no longer used
+  		o 417 Dialectology & historical linguistics
+  		o 418 Standard usage (Prescriptive linguistics)
+  		o 419 Sign languages
+	420 English & Old English languages
+		o 421 English writing system & phonology
+  		o 422 English etymology
+  		o 423 English dictionaries
+  		o 424 Not assigned or no longer used
+  		o 425 English grammar
+  		o 426 Not assigned or no longer used
+  		o 427 English dialects
+  		o 428 Standard English usage (Prescriptive linguistics)
+  		o 429 Old English (Anglo-Saxon)
+	430 German & related languages
+		o 431 German writing system & phonology
+  		o 432 German etymology
+  		o 433 German dictionaries
+  		o 434 Not assigned or no longer used
+  		o 435 German grammar
+  		o 436 Not assigned or no longer used
+  		o 437 German dialects
+  		o 438 Standard German usage (Prescriptive linguistics)
+  		o 439 Other Germanic languages
+	440 French & related languages
+		o 441 French writing system & phonology
+  		o 442 French etymology
+  		o 443 French dictionaries
+  		o 444 Not assigned or no longer used
+  		o 445 French grammar
+  		o 446 Not assigned or no longer used
+  		o 447 French dialects
+  		o 448 Standard French usage (Prescriptive linguistics)
+  		o 449 Occitan & Catalan
+	450 Italian, Romanian & related languages
+		o 451 Italian writing system & phonology
+  		o 452 Italian etymology
+  		o 453 Italian dictionaries
+  		o 454 Not assigned or no longer used
+  		o 455 Italian grammar
+  		o 456 Not assigned or no longer used
+  		o 457 Italian dialects
+  		o 458 Standard Italian usage (Prescriptive linguistics)
+  		o 459 Romanian & related languages
+	460 Spanish & Portuguese languages
+		o 461 Spanish writing system & phonology
+  		o 462 Spanish etymology
+  		o 463 Spanish dictionaries
+  		o 464 Not assigned or no longer used
+  		o 465 Spanish grammar
+  		o 466 Not assigned or no longer used
+  		o 467 Spanish dialects
+  		o 468 Standard Spanish usage (Prescriptive linguistics)
+  		o 469 Portuguese
+	470 Latin & Italic languages
+		o 471 Latin writing system & phonology
+  		o 472 Latin etymology
+  		o 473 Latin dictionaries
+  		o 474 Not assigned or no longer used
+  		o 475 Latin grammar
+  		o 476 Not assigned or no longer used
+  		o 477 Old, Post-Classical, Early Modern Latin
+  		o 478 Classical Latin usage (Prescriptive linguistics)
+  		o 479 Other Italic languages
+	480 Classical & modern Greek languages
+		o 481 Classical Greek writing system & phonology
+  		o 482 Classical Greek etymology
+  		o 483 Classical Greek dictionaries
+  		o 484 Not assigned or no longer used
+  		o 485 Classical Greek grammar
+  		o 486 Not assigned or no longer used
+  		o 487 Byzantine & Medieval Greek
+  		o 488 Modern Greek usage (Prescriptive linguistics)
+  		o 489 Other Hellenic languages
+	490 Other languages
+		o 491 East Indo-European & Celtic languages
+  		o 492 Afro-Asiatic languages
+  		o 493 Non-Semitic Afro-Asiatic languages
+  		o 494 Altaic, Uralic, Hyperborean & Dravidian languages
+  		o 495 Languages of East & Southeast Asia
+  		o 496 African languages
+  		o 497 North American native languages
+  		o 498 South American native languages
+  		o 499 Austronesian & other languages
+500 Science
+	510 Mathematics
+		o 511 General principles of mathematics
+  		o 512 Algebra
+  		o 513 Arithmetic
+  		o 514 Topology
+  		o 515 Analysis
+  		o 516 Geometry
+  		o 517 Not assigned or no longer used
+  		o 518 Numerical analysis
+  		o 519 Probabilities & applied mathematics
+	520 Astronomy
+		o 521 Celestial mechanics
+  		o 522 Techniques, equipment, materials
+  		o 523 Specific celestial bodies & phenomena
+  		o 524 Not assigned or no longer used
+  		o 525 Earth (Astronomical geography)
+  		o 526 Mathematical geography
+  		o 527 Celestial navigation
+  		o 528 Ephemerides
+  		o 529 Chronology
+	530 Physics
+		o 531 Classical mechanics; Solid mechanics
+  		o 532 Fluid mechanics; Liquid mechanics
+  		o 533 Gas mechanics
+  		o 534 Sound & related vibrations
+  		o 535 Light & related radiations
+  		o 536 Heat
+  		o 537 Electricity & electronics
+  		o 538 Magnetism
+  		o 539 Modern physics
+	540 Chemistry & Crystallography
+		o 541 Physical chemistry
+  		o 542 Techniques, equipment, materials
+  		o 543 Analytical chemistry
+  		o 544 Qualitative analysis
+  		o 545 Not assigned or no longer used
+  		o 546 Inorganic chemistry
+  		o 547 Organic chemistry
+  		o 548 Crystallography
+  		o 549 Mineralogy
+	550 Earth Sciences & Geology
+		o 551 Geology, hydrology, meteorology
+  		o 552 Petrology
+  		o 553 Economic geology
+  		o 554 Earth sciences of Europe
+  		o 555 Earth sciences of Asia
+  		o 556 Earth sciences of Africa
+  		o 557 Earth sciences of North America
+  		o 558 Earth sciences of South America
+  		o 559 Earth sciences of other areas
+	560 Fossils & prehistoric life
+		o 561 Paleontology
+  		o 562 Fossil invertebrates
+  		o 563 Fossil plants
+  		o 564 Fossil mammals
+  		o 565 Fossil birds
+  		o 566 Fossil reptiles
+  		o 567 Fossil cold-blooded vertebrates
+  		o 568 Fossil arthropods
+  		o 569 Fossil other animals
+	570 Life Sciences; Biology
+		o 571 Physiology & related subjects
+  		o 572 Biochemistry
+  		o 573 Specific physiological systems in animals
+  		o 574 Not assigned or no longer used
+  		o 575 Specific parts of & systems in plants
+  		o 576 Genetics & evolution
+  		o 577 Ecology
+ 		o 578 Natural history of organisms
+  		o 579 Microorganisms, fungi, algae
+	580 Botanical sciences
+		o 581 Botany
+  		o 582 Specific families of flowering plants
+  		o 583 Dicotyledons
+  		o 584 Monocotyledons
+  		o 585 Gymnosperms
+  		o 586 Cryptogams
+  		o 587 Pteridophytes
+  		o 588 Bryophytes
+  		o 589 Not assigned or no longer used
+	590 Zoological sciences
+600 Technology
+	610 Medicine & Health
+		o 611 Human anatomy, cytology, histology
+    		o 612 Human physiology
+    		o 613 Personal health & safety
+    		o 614 Incidence & prevention of disease
+    		o 615 Pharmacology & therapeutics
+    		o 616 Diseases
+    		o 617 Surgery & related medical specialties
+    		o 618 Gynecology, obstetrics, pediatrics, geriatrics
+    		o 619 Experimental medicine
+	620 Engineering
+		o 621 Applied physics
+    		o 622 Mining & related operations
+    		o 623 Military & nautical engineering
+    		o 624 Civil engineering
+    		o 625 Engineering of railroads, roads & canals
+    		o 626 Not assigned or no longer used
+    		o 627 Hydraulic engineering
+    		o 628 Sanitary engineering
+   		o 629 Other branches of engineering
+	630 Agriculture & Animal Husbandry
+		o 631 Techniques, equipment, materials
+    		o 632 Plant injuries, diseases, pests
+    		o 633 Field & plantation crops
+    		o 634 Orchards, fruits, forestry
+    		o 635 Garden crops (Horticulture)
+    		o 636 Animal husbandry
+    		o 637 Processing & related operations
+    		o 638 Insect culture
+    		o 639 Hunting, fishing, conservation
+	640 Home & Family Management
+		o 641 Food & drink
+    		o 642 Meals & table service
+    		o 643 Housing & household equipment
+    		o 644 Household utilities
+    		o 645 Household furnishings
+    		o 646 Clothing & accessories
+    		o 647 Management of public households
+    		o 648 Housekeeping
+    		o 649 Child rearing & home care of persons
+	650 Management & Public Relations
+		o 651 Office services
+    		o 652 Processes of written communication
+    		o 653 Shorthand
+    		o 654 Not assigned or no longer used
+    		o 655 Not assigned or no longer used
+    		o 656 Not assigned or no longer used
+    		o 657 Accounting
+    		o 658 General management
+    		o 659 Advertising & public relations
+	660 Chemical Engineering
+		o 661 Technology of industrial chemicals
+    		o 662 Explosives, fuels, related products
+    		o 663 Beverage technology
+    		o 664 Food technology
+    		o 665 Industrial oils, fats, waxes
+    		o 666 Ceramic & allied technologies
+    		o 667 Cleaning, color, coating, related technologies
+    		o 668 Technology of other organic products
+    		o 669 Metallurgy
+	670 Manufacturing
+		o 671 Techniques, equipment, materials
+    		o 672 Not assigned or no longer used
+    		o 673 Not assigned or no longer used
+    		o 674 Lumber processing, wood products, cork
+    		o 675 Leather & fur processing
+    		o 676 Pulp & paper technology
+    		o 677 Textiles
+    		o 678 Elastomers & elastomer products
+    		o 679 Other products of specific materials
+	680 Manufacture for Specific Uses
+		o 681 Precision instruments & other devices
+    		o 682 Small forge work (Blacksmithing)
+    		o 683 Hardware & household appliances
+    		o 684 Furnishings & home workshops
+    		o 685 Leather & fur goods
+    		o 686 Printing & related activities
+    		o 687 Clothing
+    		o 688 Other final products & packaging
+    		o 689 Not assigned or no longer used
+	690 Construction of Buildings
+		o 691 Building materials
+    		o 692 Auxiliary construction practices
+    		o 693 Specific materials & purposes
+    		o 694 Wood construction
+    		o 695 Roof covering
+    		o 696 Utilities
+    		o 697 Heating, ventilating, air-conditioning
+    		o 698 Detail finishing
+    		o 699 Not assigned or no longer used
+700 Arts & Recreation
+	710 Civic & Landscape Art
+		o 711 Area planning
+    		o 712 Landscape architecture
+   		o 713 Landscape design of cemeteries
+    		o 714 Water features
+    		o 715 Woody plants
+   		o 716 Herbaceous plants
+    		o 717 Structures in landscape architecture
+    		o 718 Landscape design of recreation areas
+    		o 719 Natural landscapes
+	720 Architecture
+		o 721 Architectural structure
+   		o 722 Design & decoration
+    		o 723 Civil & landscape engineering
+    		o 724 Not assigned or no longer used
+    		o 725 Public structures
+    		o 726 Buildings for religious purposes
+    		o 727 Buildings for educational & research purposes
+    		o 728 Buildings for residential purposes
+    		o 729 Buildings for other purposes
+	730 Sculpture & Installations
+	 	o 731 Processes, forms, subjects of sculpture
+    		o 732 Sculpture in metal, stone, ceramics, & glass
+    		o 733 Sculpture in plaster, mud, earth, & natural materials
+    		o 734 Sculpture in wood, horn, ivory, & bone
+    		o 735 Sculpture in composite & ephemeral materials
+    		o 736 Carving & carvings
+    		o 737 Numismatics & sigillography
+    		o 738 Ceramic arts
+    		o 739 Art metalwork
+	740 Drawing & Decorative Arts
+ 		o 741 Drawing & drawings
+    		o 742 Perspective & gestural drawing
+    		o 743 Drawing & drawings by subject
+    		o 744 Not assigned or no longer used
+    		o 745 Decorative design
+    		o 746 Textile arts
+    		o 747 Interior decoration
+    		o 748 Glass
+    		o 749 Other decorative arts
+	750 Painting & Paintings
+		o 751 Techniques, procedures, apparatus, equipment, materials, forms
+   		o 752 Color
+    		o 753 Symbolism, allegory, mythology, legend
+    		o 754 Genre paintings
+    		o 755 Religion, religious symbolism, iconography
+    		o 756 Not assigned or no longer used
+    		o 757 Human figures & their parts
+    		o 758 Other subjects depicted in paintings
+    		o 759 History, geographic treatment, biography of paintings
+	760 Graphic Arts & Printmaking
+		o 761 Relief processes (Block printing)
+    		o 762 Not assigned or no longer used
+    		o 763 Lithographic processes
+    		o 764 Chromolithography & serigraphy
+    		o 765 Metal engraving
+    		o 766 Mezzotinting & aquatinting
+    		o 767 Etching & drypoint
+    		o 768 Other graphic arts
+    		o 769 Prints
+	770 Photography & Photographs
+		o 771 Techniques, equipment, materials
+    		o 772 Metallic salt processes
+    		o 773 Pigment processes of printing
+    		o 774 Holography
+    		o 775 Digital photography
+    		o 776 Computer art (Digital art)
+    		o 777 Not assigned or no longer used
+    		o 778 Fields & kinds of photography
+    		o 779 Photographs
+	780 Music
+		o 781 General principles & musical forms
+    		o 782 Vocal music
+    		o 783 Music for single voices
+    		o 784 Instruments & instrumental ensembles
+    		o 785 Ensembles with only one instrument per part
+    		o 786 Keyboard & other instruments
+    		o 787 Stringed instruments
+    		o 788 Wind instruments
+    		o 789 Not assigned or no longer used
+	790 Sports, Games & Entertainment
+		o 791 Public performances & spectacles
+    		o 792 Stage presentations
+    		o 793 Indoor games & amusements
+    		o 794 Indoor games of skill
+    		o 795 Games of chance
+    		o 796 Athletic & outdoor sports & games
+    		o 797 Aquatic & air sports
+    		o 798 Equestrian sports & animal racing
+    		o 799 Fishing, hunting, shooting
+800 Literature
+	810 American Literature in English
+		o 811 Poetry
+  		o 812 Drama
+  		o 813 Fiction
+ 		o 814 Essays
+  		o 815 Speeches
+  		o 816 Letters
+  		o 817 Satire & humor
+  		o 818 Miscellaneous writings
+  		o 819 Literatures not assigned or no longer used
+	820 English & Old English literatures
+		o 821 Poetry
+  		o 822 Drama
+  		o 823 Fiction
+  		o 824 Essays
+  		o 825 Speeches
+  		o 826 Letters
+  		o 827 Satire & humor
+  		o 828 Miscellaneous writings
+  		o 829 Literatures not assigned or no longer used
+	830 German & related literatures
+		o 831 Poetry
+ 		o 832 Drama
+  		o 833 Fiction
+  		o 834 Essays
+  		o 835 Speeches
+  		o 836 Letters
+  		o 837 Satire & humor
+  		o 838 Miscellaneous writings
+  		o 839 Literatures not assigned or no longer used
+	840 French & related literatures
+		o 841 Poetry
+  		o 842 Drama
+  		o 843 Fiction
+  		o 844 Essays
+  		o 845 Speeches
+  		o 846 Letters
+  		o 847 Satire & humor
+  		o 848 Miscellaneous writings
+  		o 849 Literatures not assigned or no longer used
+	850 Italian, Romanian & related literatures
+		o 851 Poetry
+  		o 852 Drama
+  		o 853 Fiction
+  		o 854 Essays
+  		o 855 Speeches
+  		o 856 Letters
+  		o 857 Satire & humor
+  		o 858 Miscellaneous writings
+  		o 859 Literatures not assigned or no longer used
+	860 Spanish & Portuguese literatures
+		o 861 Poetry
+  		o 862 Drama
+  		o 863 Fiction
+  		o 864 Essays
+  		o 865 Speeches
+  		o 866 Letters
+  		o 867 Satire & humor
+  		o 868 Miscellaneous writings
+  		o 869 Literatures not assigned or no longer used
+	870 Latin & Italic literatures
+		o 871 Poetry
+  		o 872 Drama
+  		o 873 Fiction
+  		o 874 Essays
+  		o 875 Speeches
+  		o 876 Letters
+  		o 877 Satire & humor
+  		o 878 Miscellaneous writings
+  		o 879 Literatures not assigned or no longer used
+	880 Classical & modern Greek literatures
+		o 881 Poetry
+  		o 882 Drama
+  		o 883 Fiction
+  		o 884 Essays
+  		o 885 Speeches
+  		o 886 Letters
+  		o 887 Satire & humor
+  		o 888 Miscellaneous writings
+  		o 889 Literatures not assigned or no longer used
+	890 Other literatures
+		o 891 Poetry
+  		o 892 Drama
+  		o 893 Fiction
+  		o 894 Essays
+  		o 895 Speeches
+  		o 896 Letters
+  		o 897 Satire & humor
+  		o 898 Miscellaneous writings
+  		o 899 Literatures not assigned or no longer used
+900 History & Geography
+	910 Geography & Travel
+		o 911 Historical geography
+    		o 912 Graphic representations of Earth
+    		o 913 Geography of & travel in ancient world
+    		o 914 Geography of & travel in Europe
+    		o 915 Geography of & travel in Asia
+    		o 916 Geography of & travel in Africa
+    		o 917 Geography of & travel in North America
+    		o 918 Geography of & travel in South America
+    		o 919 Geography of & travel in other areas
+	920 Biography & Genealogy
+		o 921 Collections of biography
+    		o 922 Not assigned or no longer used
+    		o 923 Not assigned or no longer used
+    		o 924 Not assigned or no longer used
+    		o 925 Not assigned or no longer used
+    		o 926 Not assigned or no longer used
+    		o 927 Not assigned or no longer used
+    		o 928 Not assigned or no longer used
+    		o 929 Genealogy, names, insignia
+	930 History of Ancient World (to ca. 499)
+		o 931 Not assigned or no longer used
+    		o 932 Not assigned or no longer used
+    		o 933 Not assigned or no longer used
+    		o 934 Not assigned or no longer used
+    		o 935 Not assigned or no longer used
+    		o 936 Not assigned or no longer used
+    		o 937 Not assigned or no longer used
+    		o 938 Not assigned or no longer used
+    		o 939 Not assigned or no longer used
+	940 History of Europe
+		o 941 British Isles
+    		o 942 England & Wales
+    		o 943 Central Europe; Germany
+    		o 944 France & Monaco
+    		o 945 Italian Peninsula & adjacent islands
+    		o 946 Iberian Peninsula & adjacent islands
+    		o 947 Eastern Europe; Russia
+    		o 948 Scandinavia
+    		o 949 Other parts of Europe
+	950 History of Asia
+		o 951 China & adjacent areas
+    		o 952 Japan
+    		o 953 Not assigned or no longer used
+    		o 954 South Asia; India
+    		o 955 Iran
+    		o 956 Middle East (Near East)
+    		o 957 Siberia (Asiatic Russia)
+    		o 958 Central Asia
+    		o 959 Southeast Asia
+	960 History of Africa
+		o 961 Tunisia & Libya
+    		o 962 Egypt & Sudan
+    		o 963 Ethiopia & Eritrea
+    		o 964 North Central Africa
+    		o 965 Northeast African countries
+    		o 966 South African Republic & neighboring territories
+    		o 967 South African Republic & neighboring territories
+    		o 968 West African Republics of ancient Africa
+    		o 969 Other parts of Africa
+	970 History of North America
+		o 971 Canada
+    		o 972 Middle America; Mexico
+    		o 973 United States
+    		o 974 Northeastern United States
+    		o 975 Southeastern United States
+    		o 976 South Central United States
+    		o 977 North Central United States
+    		o 978 Western United States
+    		o 979 Great Basin & Pacific Slope
+	980 History of South America
+		o 981 Brazil
+    		o 982 Argentina
+    		o 983 Chile
+    		o 984 Bolivia
+    		o 985 Peru
+    		o 986 Colombia & Ecuador
+    		o 987 Venezuela
+    		o 988 Guiana
+    		o 989 Paraguay & Uruguay
+	990 History of Other Areas
+		o 991 [Unassigned]
+    		o 992 [Unassigned]
+    		o 993 [Unassigned]
+    		o 994 [Unassigned]
+    		o 995 [Unassigned]
+    		o 996 [Unassigned]
+    		o 997 [Unassigned]
+    		o 998 [Unassigned]
+    		o 999 Extraterrestrial worlds
+
+ 
+

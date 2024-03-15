@@ -1,0 +1,104 @@
+﻿<Window x:Class="LibraryApplications.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryApplications"
+        mc:Ignorable="d"
+        Title="Library Tasks" Height="563" Width="923">
+    <Grid Height="534" VerticalAlignment="Top">
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Height="392" Margin="175,32,0,0">
+            <TextBlock FontWeight="Bold" FontSize="14" Height="181" RenderTransformOrigin="0.5,0.5" Width="687">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="0"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform><Run Text="Instructions:"/><LineBreak/><LineBreak/>
+                <Run Text="Select the task you want to do."/><LineBreak/>
+                <Run Text="Replacing Books:Arrange the call numbers by dragging and dropping them into the desired order."/><LineBreak/>
+                <Run Text="Identifying Areas: Match the columns by selecting the correct option."/><LineBreak/>
+                <Run Text="Finding Call Numbers: Test your knowledge of the Dewey Decimal System with the quiz provided."/><LineBreak/>
+                <Run Text="After completing your task, click the 'Submit' button to verify your arrangement or answers."/><LineBreak/>
+                <Run Text="To play again, click 'Try Again.'"/>
+            </TextBlock>
+            <ListView x:Name="callNumbersListView" Visibility="Collapsed">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Call Numbers" Width="200"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Label Content="Choose a Task:"/>
+            <ComboBox x:Name="taskComboBox" SelectionChanged="TaskComboBox_SelectionChanged">
+                <ComboBoxItem Content="" IsSelected="True"/>
+                <ComboBoxItem Content="Replacing books" />
+                <ComboBoxItem Content="Identifying Areas"/>
+                <ComboBoxItem Content="Finding call numbers"/>
+            </ComboBox>
+            <Button x:Name="startButton" Content="Start Task" Click="StartButton_Click" IsEnabled="True"/>
+            <Button x:Name="submitButton" Content="Submit" Click="SubmitButton_Click" IsEnabled="True"/>
+            <Grid x:Name="matchingGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+
+            <Grid x:Name="questionOptionsGrid" Grid.Column="1" Grid.Row="0" Visibility="Collapsed">
+                <!-- Question Description Text Block -->
+                <TextBlock x:Name="questionDescriptionTextBlock" Margin="10"/>
+                <!-- Options Panel -->
+                <StackPanel x:Name="optionsPanel" Grid.Row="1" Margin="10">
+                    <!-- Content will be added dynamically -->
+                </StackPanel>
+            </Grid>
+            <Button x:Name="tryAgainButton" Content="Try Again" Click="TryAgainButton_Click" IsEnabled="True"/>
+            <Label x:Name="resultLabel" Content="" Visibility="Visible" Height="60"/>
+            <TextBlock x:Name="scoreTextBlock" Text="Score: 0" FontSize="10" FontWeight="Bold" Visibility="Hidden"/>
+        </StackPanel>
+
+        <Border x:Name="pnlQuestion"  HorizontalAlignment="Left" Margin="350,320,0,-5" BorderBrush="Black" BorderThickness="1" Height="190" Width="400" Visibility="Hidden">
+            <StackPanel Margin="0,0,0,21">
+                <!--- Question Section -->
+                <Label x:Name="lblQuestion" Content="Select Question" Margin="0,0,0,5" />
+
+                <RadioButton x:Name="optA" Margin="0,0,0,5" Checked="RadioButton_Checked"/>
+                <RadioButton x:Name="optB" Margin="0,0,0,5" Checked="RadioButton_Checked"/>
+                <RadioButton x:Name="optC" Margin="0,0,0,5" Checked="RadioButton_Checked"/>
+                <RadioButton x:Name="optD" Margin="0,0,0,5" Checked="RadioButton_Checked"/>
+
+                <Label x:Name="lblResult" Content=""/>
+                
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="lblScore" Content="Score: 0" FontSize="16" FontWeight="Bold" Grid.Column="0"/>
+                    <Button Content="NEXT" Grid.Column="1" Width="70" FontWeight="Bold" Click="Next_Click" />
+                </Grid>
+            </StackPanel>
+        </Border>
+
+        <Border x:Name="pnlSummary"  HorizontalAlignment="Left" Margin="350,320,0,-5" BorderBrush="Black" BorderThickness="1" Height="190" Width="400" Visibility="Hidden">
+            <StackPanel Margin="0,0,0,21">
+            <TextBlock Text="Summary" FontWeight="Bold" FontSize="16"/>
+            <StackPanel Margin="5">
+                    <Label x:Name="lblTotalQstn" Content="Total Question" FontSize="12"/>
+                    <Label x:Name="lblCorrectAns" Content="Correct Ans" FontSize="12" />
+                    <Label x:Name="lblWrongAns" Content="Wrong Ans" FontSize="12"/>
+                </StackPanel>
+        </StackPanel>
+        </Border>
+    </Grid>
+</Window>
+            
